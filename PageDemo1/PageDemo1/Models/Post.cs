@@ -7,6 +7,9 @@
         public string Content { get; set; }
         public string ProfileImage { get; set; }
         public string ImageUrl { get; set; }
+        public int Likes { get; set; }
+        public int Shares { get; set; }
+        public int Saves { get; set; }
     }
 
 }

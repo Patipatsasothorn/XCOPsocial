@@ -80,23 +80,22 @@
                 {
                     <img src="@post.ImageUrl" class="post-image" alt="Post image" />
                 }
-
                 <div class="post-actions">
                     <button class="post-action-btn">
                         <i class="far fa-heart"></i>
-                      1,320 ถูกใจ
+                        @post.Likes.ToString("N0") ถูกใจ
                     </button>
                     <button class="post-action-btn">
                         <i class="far fa-comment"></i>
-                       แสดงความคิดเห็น
+                        แสดงความคิดเห็น
                     </button>
                     <button class="post-action-btn">
                         <i class="fas fa-share"></i>
-                       แชร์
+                        @post.Shares.ToString("N0") แชร์
                     </button>
                     <button class="post-action-btn">
                         <i class="far fa-bookmark"></i>
-                        บันทึก
+                        @post.Saves.ToString("N0") บันทึก
                     </button>
                 </div>
             </div>

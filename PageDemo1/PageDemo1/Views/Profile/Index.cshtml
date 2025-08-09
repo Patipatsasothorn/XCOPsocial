@@ -107,7 +107,7 @@
                     <div class="post-actions">
                         <button class="post-action-btn">
                             <i class="far fa-heart"></i>
-                            ถูกใจ
+                            @post.Likes.ToString("N0") ถูกใจ
                         </button>
                         <button class="post-action-btn">
                             <i class="far fa-comment"></i>
@@ -115,7 +115,11 @@
                         </button>
                         <button class="post-action-btn">
                             <i class="fas fa-share"></i>
-                            แชร์
+                            @post.Shares.ToString("N0") แชร์
+                        </button>
+                        <button class="post-action-btn">
+                            <i class="far fa-bookmark"></i>
+                            @post.Saves.ToString("N0") บันทึก
                         </button>
                     </div>
                 </div>

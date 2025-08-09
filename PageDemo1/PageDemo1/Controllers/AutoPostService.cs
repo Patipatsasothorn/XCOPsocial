@@ -94,14 +94,20 @@ public class AutoPostService : BackgroundService
         }
 
         // สร้างโพสต์ใหม่
+        // สร้างโพสต์ใหม่
         posts.Insert(0, new Post
         {
             UserName = randomUser,
             Time = DateTime.Now.ToString("dd MMM yyyy HH:mm", new System.Globalization.CultureInfo("th-TH")),
             Content = generatedContent,
             ProfileImage = "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-            ImageUrl = imageUrl
+            ImageUrl = imageUrl,
+
+            Likes = _random.Next(1500, 5001),  // สุ่ม 1500 ถึง 3000
+            Shares = _random.Next(1500, 5001),
+            Saves = _random.Next(1500, 5001)
         });
+
 
         var updatedJson = JsonSerializer.Serialize(posts, new JsonSerializerOptions { WriteIndented = true });
         File.WriteAllText(postJsonPath, updatedJson);
