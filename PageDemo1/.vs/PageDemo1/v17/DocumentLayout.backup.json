@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PageDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\controllers\\autopostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\controllers\\autopostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\data\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\data\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\controllers\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\controllers\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\views\\admin\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\views\\admin\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\models\\createpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\models\\createpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\views\\user\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\views\\user\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\css\\manage.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\css\\manage.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|c:\\users\\user\\source\\repos\\pagedemo1\\pagedemo1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{373F7E49-FB4C-4125-9556-D7A247C7E7C0}|PageDemo1\\PageDemo1.csproj|solutionrelative:pagedemo1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-09T17:48:06.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoPostService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\AutoPostService.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Controllers\\AutoPostService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\AutoPostService.cs",
+              "RelativeToolTip": "PageDemo1\\Controllers\\AutoPostService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:46:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\data\\users.json",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\data\\users.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\data\\users.json",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\data\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T20:06:56.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PageDemo1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwGsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T20:00:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\User\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "PageDemo1\\Views\\User\\ManageUsers.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\User\\ManageUsers.cshtml",
+              "RelativeToolTip": "PageDemo1\\Views\\User\\ManageUsers.cshtml",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAYwLMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T20:00:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\User.cs",
+              "RelativeToolTip": "PageDemo1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:59:21.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpenAIService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\OpenAIService.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Controllers\\OpenAIService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\OpenAIService.cs",
+              "RelativeToolTip": "PageDemo1\\Controllers\\OpenAIService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T20:38:35.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePost.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Admin\\CreatePost.cshtml",
+              "RelativeDocumentMoniker": "PageDemo1\\Views\\Admin\\CreatePost.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Admin\\CreatePost.cshtml",
+              "RelativeToolTip": "PageDemo1\\Views\\Admin\\CreatePost.cshtml",
+              "ViewState": "AgIAABoBAAAAAAAAAAAwwEkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T19:43:24.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Program.cs",
+              "RelativeToolTip": "PageDemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T20:33:25.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\appsettings.json",
+              "RelativeDocumentMoniker": "PageDemo1\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\appsettings.json",
+              "RelativeToolTip": "PageDemo1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T20:33:40.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "posts.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\data\\posts.json",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\data\\posts.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\data\\posts.json",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\data\\posts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T11:15:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PageDemo1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:42:44.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PageDemo1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PageDemo1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T17:30:47.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PageDemo1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:27:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\CreatePostViewModel.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Models\\CreatePostViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\CreatePostViewModel.cs",
+              "RelativeToolTip": "PageDemo1\\Models\\CreatePostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:42:25.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "PageDemo1\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:27:52.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "PageDemo1\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "PageDemo1\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T11:33:16.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Manage.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Manage.css",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\css\\Manage.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Manage.css",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\css\\Manage.css",
+              "ViewState": "AgIAAHMBAAAAAAAAAADwv40BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-03T20:05:43.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-03T19:48:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Admin.css",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\css\\Admin.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Admin.css",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\css\\Admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-03T19:47:12.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\css\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-03T11:49:36.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PageDemo1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PageDemo1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T17:26:23.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profile.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Profile.css",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\css\\Profile.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\css\\Profile.css",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\css\\Profile.css",
+              "ViewState": "AgIAANUAAAAAAAAAAAAiwBsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-03T11:46:07.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Models\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\ProfileViewModel.cs",
+              "RelativeToolTip": "PageDemo1\\Models\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:30:28.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "PageDemo1\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\Models\\Post.cs",
+              "RelativeToolTip": "PageDemo1\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:30:03.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "PageDemo1\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PageDemo1\\PageDemo1\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "PageDemo1\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-08-03T11:22:11.778Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
